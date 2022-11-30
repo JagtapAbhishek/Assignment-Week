@@ -2,5 +2,7 @@ This a week Day
 sunday
 monday
 Tuesday
+Wednesday
+
 
 
